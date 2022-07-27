@@ -1,3 +1,5 @@
+@authors: Carl Barcenas, Brendan Wilke, Justin Ethitara
+
 Set-up for the project is as follows:\
 1. Connect the LandTiger board to the host computer that will be running the uVision program.\
 2. Open up the Python program.\
